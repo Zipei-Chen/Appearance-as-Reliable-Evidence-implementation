@@ -1,6 +1,10 @@
 # Appearance-as-Reliable-Evidence-implementation
 The implementation of the paper: Appearance as Reliable Evidence: Reconciling Appearance and Generative Priors for Monocular Motion Estimation
 
+# Operating environment
+This repository can be run on the following platform:
+Python 3.7.1, PyTorch 1.12.1 with CUDA 11.6, one Nvidia 4090GPU, Windows 10 (it can also be run on Ubuntu 22.04 with minimal modifications)
+
 # installation
 
 You can clone the repo by following:
